@@ -1,0 +1,63 @@
+# repositorio
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UFT-8"
+    </head>
+<body style="background-color:#171717;">
+        <h1 align="center"  ><span>PÁGINA WEB PERSONAL</span></h1><div class="avatar" style="background-image: url(https://1.bp.blogspot.com/-61Q7byeCMVI/XcylqAs0TkI/AAAAAAAAkIU/D0zO7dSrQiYj6Kc7JrX2E9kD_Eqb9k1kACLcBGAsYHQ/s320/Foto%2Bde%2Brostro%2Bformal.jpg)"></div>
+        <img src="https://1.bp.blogspot.com/-61Q7byeCMVI/XcylqAs0TkI/AAAAAAAAkIU/D0zO7dSrQiYj6Kc7JrX2E9kD_Eqb9k1kACLcBGAsYHQ/s320/Foto%2Bde%2Brostro%2Bformal.jpg">
+        <p></p>
+        <h2>Datos Personales</h2>
+        <table border="1px">
+        <tr>
+            <td><b><p>Nombres y Apellidos</p></b></td>
+            <td>Johan Fernando Tualombo González</td>
+        </tr>
+        <tr>
+            <td><p><b>Edad</b><br /></p></td>
+            <td>18</td>
+        </tr>
+        <tr>
+            <td><p><b>Fecha de nacimiento</b></p></td>
+            <td>03 de junio de 2001</td>
+        <tr>
+            <td><p><b>Ciudad de nacimiento</b></p></td>
+            <td>Huaquillas</td>
+        </tr>
+        <tr>
+            <td><p><b>Nacionalidad</b></p></td>
+            <td>ecuatoriana</td>
+        </tr>
+        <tr>
+            <td><p><b>Correo electrónico personal</b></p></td>
+            <td>johan.f.tualombo@gmail.com</td>
+        </tr>
+        </table>
+        <h2>Datos académicos</h2>
+            <table border=1px>
+                <tr>
+                    <td><p><b>Estudios de primaria</b></p></td>
+                    <td>Escuela "Cap. César Edmundo Chiriboga González"</td>
+                </tr>
+                <tr>
+                    <td><p><b>Estudios de secundaria</b></p></td>
+                    <td>Colegio de Bachillerato "Sara Serrano de Maridueña"</td>
+                </tr>
+                <tr>
+                    <td><p><b>Estudios de bachillerato</b></p></td>
+                    <td>Unidad Educativa del Milenio "Lic. Olga Campoverde C."</td>
+                </tr>
+            </table>
+        <h2>Competencias</h2>
+            <table border=1px>
+                <tr>
+                    <td><p><b>Conocimiento de Lenguajes de código/programación/web</b></p></td>
+                    <td>HTML5 (curso de SoloLearn); C++ (principiante)</td>
+                </tr>
+                <tr>
+                    <td><p><b>Programas/Software</b></p></td>
+                    <td>Microsoft Office: Word, Excel, Power Point; Editor de vídeo Camtasia Studio 8 y 9</td>
+                </tr>
+            </table>
+</html>
